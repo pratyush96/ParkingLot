@@ -19,23 +19,23 @@ paste the file location as command line arguement and then simply run ...
 run command one by one you will get desired output followed by each and every command
 
 input file command:
-create_parking_lot 6
-park KA-01-HH-1234 White
-park KA-01-HH-9999 White
-park KA-01-BB-0001 Black
-park KA-01-HH-7777 Red
-park KA-01-HH-2701 Blue
-park KA-01-HH-3141 Black
-leave 4
-status
-park KA-01-P-333 White
-park DL-12-AA-9999 White
-registration_numbers_for_cars_with_colour White
-slot_numbers_for_cars_with_colour White
-slot_number_for_registration_number KA-01-HH-3141
-slot_number_for_registration_number MH-04-AY-1111
+create_parking_lot 6 
+park KA-01-HH-1234 White 
+park KA-01-HH-9999 White 
+park KA-01-BB-0001 Black 
+park KA-01-HH-7777 Red 
+park KA-01-HH-2701 Blue 
+park KA-01-HH-3141 Black 
+leave 4 
+status 
+park KA-01-P-333 White 
+park DL-12-AA-9999 White 
+registration_numbers_for_cars_with_colour White 
+slot_numbers_for_cars_with_colour White 
+slot_number_for_registration_number KA-01-HH-3141 
+slot_number_for_registration_number MH-04-AY-1111 
 
-sample output using file as a command line arguement:
+SAMPLE OUTPUT USING FILE INPUT AS COMMAND LINE ARGUEMENT 
 
 Created parking lot with 6 slots
 
